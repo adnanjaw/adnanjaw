@@ -11,7 +11,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adnan-aljawabra" height="30" width="40" />
   </a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -52,16 +51,12 @@
   </a>
 </p>
 
+---
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnanjaw&show_icons=true&locale=en&layout=compact" alt="adnanjaw" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnanjaw&" alt="adnanjaw" />
 </p>
-
-<p>&nbsp;</p>
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adnanjaw&show_icons=true&locale=en" alt="adnanjaw" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnanjaw&" alt="adnanjaw" />
 </p>
