@@ -48,8 +48,6 @@
 ---
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnanjaw&" alt="adnanjaw" />
-</p>
-<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adnanjaw&show_icons=true&locale=en" alt="adnanjaw" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnanjaw&" alt="adnanjaw" />
 </p>
