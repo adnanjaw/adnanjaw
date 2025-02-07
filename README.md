@@ -44,10 +44,6 @@
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
   </a>
 </p>
-
----
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adnanjaw&show_icons=true&locale=en" alt="adnanjaw" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnanjaw&" alt="adnanjaw" />
 </p>
